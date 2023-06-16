@@ -21,6 +21,7 @@
 - Rapid learning and adaptability, demonstrated by delivering sturdy solutions in dynamic environments.
 - Proven capability to navigate complex tech challenges, showcasing problem-solving prowess and technical proficiency.
 
-For a comprehensive view of my work, you can access my [CV and Portfolio here](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing).
+## Additional Information
+For a comprehensive view of my work and achievements, you can access my [CV and Certificates here](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing).
 
 For more details about me, please checkout my [Linkedin](https://www.linkedin.com/in/nicholas-stancio-saka/).
