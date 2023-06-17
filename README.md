@@ -1,10 +1,12 @@
 ## Portfolio
 To get an overview of my projects and works, please visit the "portfolios" folder. Here, you will find summaries and guides relating to my various projects.
-- [May 2022 - Present] [Klikdaily](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/career/klikdaily.md)
-- [Mar 2021 - Jan 2022] [Dicoding - Kampus Merdeka](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md)
+- [Klikdaily (May 2022 - Present)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/career/klikdaily.md)
+- [Pensil (Mar 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/career/pensil.md)
+  
+<br>
 
-- [2019 - 2023] [University](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/education/kuliah.md)
-- [Aug 2021 - Jan 2022] [Dicoding - Kampus Merdeka](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md)
+- [University (2019 - 2023)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/education/kuliah.md)
+- [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md)
 
 ## Experience
 - Started as a part-time Mobile Engineer at Klikdaily, advancing to a full-time role highlighting my growth and dedication.
