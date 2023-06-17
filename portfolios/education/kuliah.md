@@ -15,6 +15,7 @@
 - **Pneumonia Detection App:** Mobile app developed in Flutter to fetch TFLite model from an API, perform inference inside the app, and display results to the user.
 - **Loan Management App:** A simple app developed to facilitate the loaning of machinery items.
 - **Cleaning and Disinfection Robot:** A robot equipped with sensors to measure room humidity and particle count, also capable of dispensing disinfectant.
+- **IOT:** IOT Course Project using html, css, and mostly javascript
 
 <br>
 
@@ -105,3 +106,11 @@ I developed a simple Flutter app for loaning machinery items. The purpose of thi
 **Skills and tools: Robotics, Sensors, Embedded Systems**
 
 I contributed to the creation of a cleaning robot, designed as a preventive measure against COVID-19. The robot is equipped with several sensors to monitor room humidity and check for an excess of unwanted particles. Additionally, it features a disinfectant spray for active disinfection, not just cleaning. This project aimed to leverage technology for health and safety purposes in the context of the COVID-19 pandemic.
+
+<br>
+
+### IOT
+
+**Skills and tools: IOT, Sensors, Website**
+
+[IOT Course Project using html, css, and mostly javascript](https://github.com/nicholas-stancio/IOT/tree/main)
