@@ -9,11 +9,7 @@ To get an overview of my projects and works, please visit the "portfolios" folde
 - [University (2019 - 2023)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/education/kuliah.md)
 - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md)
 
-<br>
-
 ---
-
-<br>
 
 ## Experience
 - Started as a part-time Mobile Engineer at Klikdaily, advancing to a full-time role highlighting my growth and dedication.
