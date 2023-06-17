@@ -1,5 +1,5 @@
 ## Portfolio
-To get an overview of my projects and works, please visit the "portfolio" folder. Here, you will find summaries and guides relating to my various projects. The detailed work and actual projects are housed in separate repositories, the links to which can be found within the corresponding ReadMe files in the "portfolio" directory.
+To get an overview of my projects and works, please visit the "portfolios" folder. Here, you will find summaries and guides relating to my various projects. The detailed work and actual projects are housed in separate repositories, the links to which can be found within the corresponding ReadMe files in the "portfolio" directory.
 
 ## Experience
 - Started as a part-time Mobile Engineer at Klikdaily, advancing to a full-time role highlighting my growth and dedication.
