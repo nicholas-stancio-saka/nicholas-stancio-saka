@@ -5,7 +5,7 @@
 - **Programming Languages:** Dart (Flutter)
 - **Platforms:** Android, iOS, Web
 - **Testing:** Integration Testing
-- **Tools & Technologies:** Getx, Bloc, Firebase (core, auth, crashlytics)
+- **Tools & Technologies:** Getx, Bloc, Firebase
 - **Libraries:** get, flutter_bloc,  geolocator, dio, google_maps_flutter, location, pdf, share_plus, bluetooth_print, image_picker, flutter_local_notifications,  flutter_webview_plugin, multiple firebase libraries, etc
 
 <br>
