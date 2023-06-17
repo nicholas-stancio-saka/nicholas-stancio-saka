@@ -10,6 +10,10 @@ To get an overview of my projects and works, please visit the "portfolios" folde
 - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
 <!-- - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md) -->
 
+#### Projects
+- [Find Fresh Groceries](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/projects/find-fresh-groceries.md)
+- [Mobile Attendence](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/projects/mobile-attendance.md)
+  
 ---
 
 ## Experience
