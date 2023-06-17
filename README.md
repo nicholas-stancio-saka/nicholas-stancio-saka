@@ -1,10 +1,11 @@
 ## Portfolio
 To get an overview of my projects and works, please visit the "portfolios" folder. Here, you will find summaries and guides relating to my various projects.
+
+### Career
 - [Klikdaily (May 2022 - Present)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/career/klikdaily.md)
 - [Pensil (Mar 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/career/pensil.md)
   
-<br>
-
+### Education
 - [University (2019 - 2023)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/education/kuliah.md)
 - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md)
 
