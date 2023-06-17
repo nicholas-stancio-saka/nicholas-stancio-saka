@@ -7,7 +7,8 @@ To get an overview of my projects and works, please visit the "portfolios" folde
   
 #### Education
 - [University (2019 - 2023)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/education/kuliah.md)
-- [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md)
+- [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
+<!-- - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md) -->
 
 ---
 
