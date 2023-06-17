@@ -13,6 +13,8 @@ To get an overview of my projects and works, please visit the "portfolios" folde
 #### Projects
 - [Find Fresh Groceries](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/projects/find-fresh-groceries.md)
 - [Mobile Attendence](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/projects/mobile-attendance.md)
+- Royal Foam
+- Payment Tracker
   
 ---
 
