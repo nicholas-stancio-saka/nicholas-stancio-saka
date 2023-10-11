@@ -29,18 +29,17 @@ To get an overview of my projects and works, please visit the links. Here, you w
 
 ## About Me
 
-#### Career
+### Career
 - [Klikdaily (May 2022 - Present)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/career/klikdaily.md)
 - [Pensil (Mar 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/career/pensil.md)
   
-#### Education
+### Education
 - [University (2019 - 2023)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/tree/main/portfolios/education/kuliah.md)
 - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
 <!-- - [Dicoding - Kampus Merdeka (Aug 2021 - Jan 2022)](https://github.com/nicholas-stancio-saka/nicholas-stancio-saka/blob/main/portfolios/education/dicoding.md) -->
 
----
 
-## Additional Information
+### Additional Information
 For a comprehensive view of my work and achievements, you can access my [CV and Certificates here](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing).
 
 For more details about me, please checkout my [Linkedin](https://www.linkedin.com/in/nicholas-stancio-saka/).
