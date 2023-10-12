@@ -6,24 +6,24 @@ To get an overview of my projects and works, please visit the links. Here, you w
 - [Pencil Crypto](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
 
 ### 2022
-- [Klikdaily - Mitra (Continued from prev devs)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Klikdaily - Rudolve (Continued from prev devs)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Klikdaily - Sales (Continued from prev devs)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Klikdaily - Sahabat Bola (Mostly webview)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Royal Foam](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
+- [Klikdaily - Mitra (Continued from prev devs)](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2022/klikdaily/mitra)
+- [Klikdaily - Rudolve (Continued from prev devs)](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2022/klikdaily/rudolve)
+- [Klikdaily - Sales (Continued from prev devs)](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2022/klikdaily/sales)
+- [Klikdaily - Sahabat Bola (Mostly webview)](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2022/klikdaily/sahabat_bola)
+- [Royal Foam](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2022/royal_foam)
 
 ### 2023
-- [Bookabook](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Kapten Pos](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Palembang Bites](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Parkyr](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Twospaces (SOWN)](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
+- [Bookabook](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2023/bookabook)
+- [Kapten Pos](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2023/kaptenpos)
+- [Palembang Bites](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2023/palembang_bites)
+- [Parkyr](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2023/parkyr)
+- [Twospaces (SOWN)](https://github.com/nicholas-stancio-saka/portfolio/tree/main/2023/twospaces)
 
 ### Mini Projects
-- [AI Inference](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Find Fresh Groceries](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Mobile Attendence](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
-- [Payment Tracker](https://drive.google.com/drive/folders/1OJYu6iTwsLcYoj2Xib3nG09PSPB1msO5?usp=sharing)
+- [AI Inference](https://github.com/nicholas-stancio-saka/portfolio/tree/main/mini_projects/ai_inference)
+- [Find Fresh Groceries](https://github.com/nicholas-stancio-saka/portfolio/tree/main/mini_projects/find_fresh_groceries)
+- [Mobile Attendence](https://github.com/nicholas-stancio-saka/portfolio/tree/main/mini_projects/mobile_attendence)
+- [Payment Tracker](https://github.com/nicholas-stancio-saka/portfolio/tree/main/mini_projects/payment_tracker)
 
 ---
 
